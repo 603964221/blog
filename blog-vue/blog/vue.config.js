@@ -10,6 +10,7 @@ module.exports = {
         }
       }
     },
+    port:8081,
     disableHostCheck: true
   },
   productionSourceMap: false,
